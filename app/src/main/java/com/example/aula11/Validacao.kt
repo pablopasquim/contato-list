@@ -4,8 +4,8 @@ class Validacao {
 
     companion object{
 
-        private val USER = "pablopasquim"
-        private val PASSWORD = "123"
+        private val USER = "pablo"
+        private val PASSWORD = "1"
 
         fun validacao(usuario: String, senha: String): Boolean{
 
